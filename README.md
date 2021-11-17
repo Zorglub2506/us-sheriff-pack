@@ -1,4 +1,4 @@
-# us-sheriff-pack
+# San Andreas Sheriff vehicle pack
 ******************************************
 Disclaimer
 ******************************************
